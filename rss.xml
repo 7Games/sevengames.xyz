@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+		<title>7Games Blog</title>
+		<link>https://sevengames.xyz/blog.html</link>
+		<description>Epic Blog from the epic Tesco Gamer</description>
+		<language>en-us</language>
+		<copyright><![CDATA[ 7Games ]]></copyright>
+		<image>
+			<url>https://sevengames.xyz/res/ico/android-chrome-512x512.png</url>
+			<title>7Games Blog</title>
+			<link>https://sevengames.xyz/blog.html</link>
+		</image>
+		<item>
+			<title>02/06/2022 - New Website Moment;</title>
+			<link>https://sevengames.xyz/blog/2022/0206.html</link>
+			<pubDate>Thu, 2 Jun 2022 18:14:00 GMT</pubDate>
+			<author>Benjamin</author>
+			<category>Blog</category>
+			<description><![CDATA[ 
+			<h1>02/06/2022 - New Website Moment;</h1>
+			<p>Hello there! Now I know what you might be thinking "Bro what the fuck is this website? It looks like the <a href="https://archive.ph/a4rMr" id="yellow">Space Jam website</a>", and my response to that is you are wrong... it looks worse also they got rid of that website. It now redirects to the Warner Bros page for "Space Jam: A New Legacy". But I'm getting off topic.</p>
+				<p>Yes, this website looks bad however it is much better I promise. But why I hear you ask well I will tell you, I think it is important for everyone to have their own website, not controlled by anyone but themselves and with that in mind for me, it makes no sense to have a website that is controlled by a company like Weebly. Now I'm not throwing any shade on Weebly, I'm just saying that I want to own my website not modify a restrictive template on a website. So I decided to create my own website with my own shit web design and my own email addresses (<a id="yellow">contact@sevengames.xyz</a>).</p>
+				<p>So what is happening with 7Games, well now that much. I just finished my first year at college(i still got somethings to do but overall I'm done) which included making a game so I'm thinking after Ben Goes to Tesco: Ultimate comes out I'm going to look into polishing up that game and uploading it so that everyone can play it (not that I'm sure anyone would want to play it). Speaking about Ben Goes to Tesco: Ultimate how is it coming along? Well since around February this year I had to put BGTT:U onto the sideline as I focused on college more. However with college more or less over I can now get back to development. Now, which platforms is BGTT:U going to be released on? The Official List is:-<br>Windows<br><a href="https://sevengames.xyz/interject.txt">Linux</a><br>HTML5</p>
+				<p>When will it be released? <i id="yellow">Soon™</i>. It is in the works I promise. So that is it for now, I hope you like the new website... or not like it, that's ok too. If you want to send an email my address is <a id="yellow">contact@sevengames.xyz</a> if you want to encrypt a message to send to me or just have my public key for some reason here is my <a id="yellow" href="https://sevengames.xyz/pgp.txt">PGP Key</a>.</p>
+			]]></description>
+		</item>
+		<item>
+			<title>03/06/2022 - That was Quick;</title>
+			<link>https://sevengames.xyz/blog/2022/0306.html</link>
+			<pubDate>Fri, 3 Jun 2022 11:47:00 GMT</pubDate>
+			<author>Benjamin</author>
+			<category>Blog</category>
+			<description><![CDATA[ 
+			<h2>03/06/2022 - That was quick;</h2>
+				<p>Hi. As the title implies something was quick. But what was it? Well if you seen the website yesterday and are asking that question then I'm sorry to say you might be diagnosed with dumbassitus because for everyone with an IQ above 3 they can see that the website has changed drasticly. I won't go into what exactly has changed but I will go over some important stuff.</p>
+				<p>So I expanded the About Me sections moved the Social Media section to the Home page. I also removed the footer and put the RSS button at the top right, there is now also a Tor Hidden Service for this page it can be found by pressing the Tor icon at the top right or by going to this link: http://ojdu6jltlecc5m24wtyou654frwyendjbkfqipp6tcgphgl53tjkqiyd.onion/ with the Tor Browser</p>
+				<p>Well thats it for now. Remember to add my RSS feed, send me an email at <a id="yellow">contact@sevengames.xyz</a>. And if you want my Public Key <a id="yellow" href="../../pgp.txt">here is it</a>.</p>
+			]]></description>
+		</item>
+		<item>
+			<title>04/06/2022 - Free Software (Free as in Freedom);</title>
+			<link>https://sevengames.xyz/blog/2022/0406.html</link>
+			<pubDate>Sat, 4 Jun 2022 11:40:00 GMT</pubDate>
+			<author>Benjamin</author>
+			<category>Blog</category>
+			<description><![CDATA[ 
+			<h2>04/06/22 - Free Software (Free as in Freedom);</h2>
+				<p>Hello! Now when I say <a href="https://sevengames.xyz/interject.txt">Linux</a> what is the first thing that comes to mind? Sweaty nerds? Angry elitists? Well, I see a group of dedicated people rallying around the idea of Free Software. Well OK fine I also see some sweaty nerds and angry elitiests too. When I say Free Software I don't mean free as in price (however the software is also free in price) but free as in Freedom meaning the software can be run, edited, contributed to, and freely shared.</p>
+				<p>The Free Software Foundation (FSF) is a non-profit founded by Richard Stallman in 1985, FSF's most know project is the GNU operating system used in tandem with the Linux Kernel to become GNU/Linux. If you look at software development over the years you can see that Open Source software has become more popular however Open Source and Free Software should not be confused with each other. An Open Source program can still be Proprietary. Take for example Microsoft Visual Studio Code, now in the past Microsoft has been harsh on Open Source software (going so far as to call Linux communism) however in 2015 Microsoft announced and released VS Code as an Open Source lightweight (compared to the normal visual studio) code editor, but did you read that? Open Source? and Microsoft? Impossible. Well, your wrong here is the <a href="https://github.com/microsoft/vscode">VS Code GitHub page</a> (Microsoft owns GitHub... just to let you know). Ok well, that's all well and good, Microsoft released an Open Source program so what? Well if you go and download VS Code something might seem off. You see VS Code is licensed under the MIT Licence meaning anyone can use the code for commercial use, they can distribute it, or modify it. Ok, that's good, right? Anyone can do anything with the code. Well... most people just download the binaries from Microsoft's website however when Microsoft builds the binary the program is licensed under a Proprietary license. huh. Well, that's scummy. If VS Code was released under a <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">GPL</a> license then this would never happen (the GPL license was created by the Free Software Foundation).</p>
+				<p>Ok, why should you care about Free Software? Well with Proprietary software you are giving up your freedom and possibly privacy if the company built any spyware into their software (or os). Ok, so what alternatives should you use instead of Proprietary software? Well just look them up yourself, but if you cannot be bothered here's some: instead of Microsoft Office use <a href="https://www.libreoffice.org/">LibreOffice</a>, instead of Photoshop use <a href="https://www.gimp.org/"> GIMP (GNU Image Manipulation Program)</a>, instead of using VLC use... well actually VLC is Free Software so its fine. If you wan't to look more into it here is a link to the <a href="https://directory.fsf.org/wiki">Free Software Directory</a>.</p>
+				<p>Now should you change your entire OS in the name of Free Software? I mean if you are that dedicated to Free Software then yes you should probably use something like GNU/Linux or maybe even OpenBSD. Now listen I'm not like some <a href="https://sevengames.xyz/interject.txt">Linux</a> users, I'm not going to start yelling at you to "StARt UsiNg GNu+LinUX beCauSE WinDblOWS 11 SuXX aND is MAdE bY MiCro$OfT (akA SAtaN)" because believe it or not I have better things to do (surprisingly). And also to any people who are actually like that please watch <a href="https://sevengames.xyz/res/memes/whateverylinuxuserneeds.mp4">this video</a>, it is very important. Ok let's get back on track, if you don't use <a href="https://sevengames.xyz/interject.txt">Linux</a> or just haven't tried it then just look around at different distros for example maybe <a href="https://getfedora.org">Fedora Linux</a>, you don't even need to flash a USB and boot into it to try it out, you can make a Virtual Machine with <a href="https://www.virtualbox.org/">Virtual Box</a> or use <a href="https://distrotest.net/index.php">DistroTest.net</a>. Just give it a try... please :).</p>
+				<p>Well, that is all I have to say, remember to add my RSS feed the button is at the top, Email me if you have any questions at <a id="yellow">contact@sevengames.xyz</a>, and here is my <a id="yellow" href="https://sevengames.xyz/pgp.txt">PGP Key</a>.</p>
+			]]></description>
+		</item>
+		<item>
+			<title>05/06/22 - The Onion Router;</title>
+			<link>https://sevengames.xyz/blog/2022/0506.html</link>
+			<pubDate>Sun, 5 Jun 2022 17:20:00 GMT</pubDate>
+			<author>Benjamin</author>
+			<category>Blog</category>
+			<description><![CDATA[ 
+			<h2>05/06/22 - The Onion Router;</h2>
+				<p>When you go to any website on the internet there is a very high chance that you are probably being tracked. By who? Everyone, mainly Big Tech e.g. Facebook, Google, and Amazon. Let's focus on Google, they are mainly an advertising company that sells user data. You may think that they might just sell what videos people watch on YouTube or people's Google search terms but it goes much deeper than that. Google allows people to have advertisements placed on their sites so the person can get profit, however, the advertisements can be used to track what website a user is on even if it is not owned by Google itself. But how can people stop Google from prying into their personal life more than that person wants? Well, many people point at VPNs which if you aren't as that pressed about privacy is a very good idea. However, the way to get a VPN is not so private, the best VPN that you could get if you are interested in keeping your privacy would probably be <a href="https://mullvad.net">Mullvad</a>, you don't need any personal information such as emails to create an account and payment is very secure, you can use <a href="https://www.getmonero.org/">Monero</a> or just send in cash... like real money. You put it in an envelope along with a special code that is associated with your account then you send that envelope in the mail.</p>
+				<p>So is Mullvad the best way to stay private online? No. It's not the absolute best way. It will still keep your IP address private if that's all you want but if you want however if you want to go beyond that then there is something far better than that. The Onion Router more commonly known as Tor (spelled as Tor, not TOR) uses a technique called Onion Routing where requests are encased in several layers of encryption and sends it through a series of relays which one by one "peels" back a layer, uncovering the data's next destination. After the final relay removes the final layer it sends it onto the site you are trying to access with no knowledge of who sent the message/request.</p>
+				<h2>The History</h2>
+				<p>Onion routing was originally developed in the mid-1990s at the U.S. Naval Research Laboratory by Paul Syverson, Michael Reed, and David Goldschlag. It was originally made the protect U.S. intelligence communications online. In 2002 Roger Dingledine and Nick Mathewson joined Paul Syverson in 2002 to develop the largest best-known implementation of onion routing called 'The Onion Routing project' or the Tor Project.</p>
+				<p>The main implementation of onion routing is in web browsing by using the Tor Browser. The Tor Browser is built off of a modification of the Firefox browser that changes default settings to be more privacy respecting. And as you can guess it sends all traffic through the Tor network. With this, your IP address is changed and websites can no longer use that to track you and it is much more anonymous than using a VPN as with one the VPN provider can still see what website you go to, with Tor exit nodes they can only see what websites a user is going to but not what user is accessing them. The major downside to Tor is the speed because your connection is being routed through several different nodes on different continents this means that the speed is much slower than a VPN.</p>
+				<h2>How do you use Tor?</h2>
+				<p>Firstly go to <a href="https://torproject.org/">https://torproject.org/</a> and download the Tor Browser for the platform you are on. Then install it... then launch it... the connect... then that's it. You can access the internet as normal in addition to Onion Sites/Hidden Services.</p>
+				<h2>Are you completely Anonymous using Tor?</h2>
+				<p>No, you are not. Tor cannot make you fully anonymous but some ways can help you. For example, go into the Tor Browser settings and then select the safest security option. This will disable some fonts/icons and Javascript. But why is that important?</p>
+				<h3>Fingerprinting.</h3>
+				<p>Not only your IP can be used to track you but the settings on your browser can be used to do this too. It is called browser fingerprinting and it is a technique of getting any piece of information from your browser however small that can link you between websites, that information might be how large your screen is, the Operating System you are using, the extensions installed on your web browser, the fonts installed on your computer and so much more. When using Tor Browser it masks everything for example saying that every user uses Windows and they use Firefox to make every user look the same so that fingerprinting is much harder. And by turning off Javascript most of the fingerprinting techniques can be avoided as the websites you are connecting to can no longer see the individual details that make you unique. There are several fingerprint testers online for example <a href="https://coveryourtracks.eff.org/">https://coveryourtracks.eff.org/</a>.</p>
+				<h2>Isn't Tor illegal?</h2>
+				<p>No... well, it depends. If you live in China then Tor is blocked meaning people in China cannot use the Tor Network however, this can be circumvented with Bridges. If you live in a place like the US or the UK then Tor is not illegal. But I know that you might be saying "isn't there illegal sites on Tor?". Yes, there are illegal sites on Tor just like there are Illegal sites on the Clear Web.</p>
+				<h2>What is the difference between the Clear Web and a Hidden Service?</h2>
+				<p>If you noticed when I was talking about how Tor works you saw that all the traffic was encrypted until it gets sent out to the website you are trying to access (the traffic is still being encrypted if the site is using HTTPS however if the site is using HTTP then the exit node can see the contents of whatever you are sending). So using Tor with the clear web can be dangerous, however what if the requests always stay inside the Tor network? Then it would always be encrypted until it gets to the website so not a single relay can see what content the traffic holds only you and the website you are accessing. This is what a Hidden Service is, a website that can only be accessed by Tor. They are also more commonly called Onion Sites. You can tell when you are on an onion site because the padlock in the upper right of the Tor Browser will become the Tor Browser logo and also the URL will look something like: <a id="yellow">http://ojdu6jltlecc5m24wtyou654frwyendjbkfqipp6tcgphgl53tjkqiyd.onion/</a>.</p>
+				<p>Well, it won't look something like that... because it is exactly like that. That is my onion side. But why do I run an onion site? Because I believe that no one should be tracked and monitored on the internet and even though probably no one will care about the onion site because no one who cares about that would be reading this I still think it is important. Do I use Tor? Yes. For general internet browsing, I use the Tor Browser, however, for something more personal such as school work or Amazon. I would use another web browser like Firefox.</p>
+				<p>Any that's just what I think. If you think any different or want to ask a question then contact me at my email <a id="yellow">contact@sevengames.xyz</a>. Make sure to encrypt it with my <a id="yellow" href="../../pgp.txt">PGP key</a> and send your PGP public key with the email.</p>
+			]]></description>
+		</item>
+		<item>
+			<title>06/06/22 - UK Time;</title>
+			<link>https://sevengames.xyz/blog/2022/0606.html</link>
+			<pubDate>Mon, 6 Jun 2022 20:45:00 GMT</pubDate>
+			<author>Benjamin</author>
+			<category>Blog</category>
+			<description><![CDATA[ 
+			<h2>06/06/22 - UK Time;</h2>
+				<p>Ok, so right now, the UK is on BST (British Summer Time) which is 1 hour ahead of GMT (Greenwich Mean Time), and that itself is very strange because the country that has Greenwich is one hour ahead of it. But what annoys me about it is everything, today I saw an ad for Summer Game Fest and it has the time for the event in GMT which reminded me of the same event a year ago where there was another advertisement which showed the time in GMT but me being a dumbass I did not realize that the UK has changed to BST so then came the time of the event YouTube did its countdown thing then when it finished an image showing the information of the event was shown, for 15 minutes I was confused because the time the event started and the current time were the same... except where it said GMT next it, when I realized the UK was in BST I felt quite dumb, which I am. Also, BST ends at the end of October for some reason despite it not being summer at that time.</p>
+				<p>Another annoying thing is the RSS, whenever I need to add a new RSS item for the feed on this website I have to put the time in as GMT. Anyway, that's it, that's all I wanted to say about the UK time zone, I know why they change it to summertime but especially for the first couple of months it confuses me. Well, it just confuses me, don't know about anyone else.</p>
+			]]></description>
+		</item>
+	</channel>
+</rss>

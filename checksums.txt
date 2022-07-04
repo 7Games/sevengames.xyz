@@ -1,0 +1,15 @@
+SHA-256:-
+Ben Goes To Tesco.exe                > d9d801c4c0a4c2c85af66586ce1fa27ed72386442211254f556435a2dadf9a2b
+Ben Goes To Tesco Remastered.exe     > 74923d48c114174f8b65c8c03e4eeb114f7bee92942471e3fd5d7eddf4c6e92e
+Ben Goes To Tesco 3D.zip             > b5f4b577146805c3eab4cd22fbdf038f6278b9a484e85658e937eced08c1cad4
+this_is_a_bugless_game.rar           > f9637d465d0663dbb45d254bd16f98140e06e2b830d702a1b380aae40ef52b74
+BenGoesToTesco.gmk                   > 9aad08a52a3218f62deed5dfec5abd8cb5a2f0d1e7d338aaa423d20f8877eb92
+
+
+
+SHA-512:-
+Ben Goes To Tesco.exe                > 2e9bccf9fa6bfb7a97f2f8765798b77b15db2424bd8811b140b1345c48db9186d01135b0c9343070e9751a489587347f72d6d56e724b276a89465e51ffe1d024
+Ben Goes To Tesco Remastered.exe     > d703c51a3a5447ae28d24b72ffdf008316c63776bdddc5ca68c1b10ff6114856e52101a595a5aabff4eb043b7298e863e2f5fba330cc76c4c7886d83c17363d6
+Ben Goes To Tesco 3D.zip             > dcf3a75a204698f56880060854b8fb39f0019bfa0d4e50d2f2b933ec100a191373a76c8c9a38060fd610e4deabaf263bf0e73abef6d67f2c42fff77ce7c7fe10
+this_is_a_bugless_game.rar           > a5e66eed695b81528190cd075c143aafd2159a0aba0fa5796e6a1a40f8cb295add08e121b3921168c603396c3c8103446a7acc9ae80954a18eccb62629797c06
+BenGoesToTesco.gmk                   > 0b5f293beda5e96a2ec74d9d7d490c4a17708fbffad1b882fd7dd31f06528d3815b9ae927f009f1357a6abf6b44779fcefa6831aabd1503a2d7ae30b920ca6b9
