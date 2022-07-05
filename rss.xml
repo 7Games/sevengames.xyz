@@ -92,5 +92,19 @@
 				<p>Another annoying thing is the RSS, whenever I need to add a new RSS item for the feed on this website I have to put the time in as GMT. Anyway, that's it, that's all I wanted to say about the UK time zone, I know why they change it to summertime but especially for the first couple of months it confuses me. Well, it just confuses me, don't know about anyone else.</p>
 			]]></description>
 		</item>
+		<item>
+			<title>04/07/2022 - Epic Website Source;</title>
+			<link>https://sevengames.xyz/blog/2022/0407.html</link>
+			<pubDate>Thu, 5 Jul 2022 00:35:00 GMT</pubDate>
+			<author>Benjamin</author>
+			<category>Blog</category>
+			<description><![CDATA[ 
+			<p>Hello once again. How are you? Ok, that's nice I don't care... How am I? Well, fantastic thank you! Ok in all seriousness I just finished my first year at college which is very cool... however I now have nothing to do... I mean I could work more on BGTT:U however I don't want to work on the game all the time as it would become a chore.</p>
+						  <p>I am working on a very small text-based game and though to maybe get some version control just in case I loose the files or just fuck up and need to roll back. So ofcorse the first thing I choose was Git and the most popular place to store files with Git is GitHub. So I logged in and well... there were alot of things that I was unhappy with such as some repos being private and my profile not having that much info on it. For a few hours I went through everything and decided what should go, what repos to make public and the licencing for them. Then I had a good idea.</p>
+						  <p>This website is tecicnecly not open source. Despite the fact that you can easily download all the files by simpley right clicking and saving the page (thanks to having no JavaScript) I thought that it was too tedious so... <a id="yellow" href="https://github.com/7Games/sevengames.xyz">here it is!</a> The complete source to my website. Every single file. And it's under the <a href="https://unlicense.org">Unlicence</a>... Licence. Meaning that this website is in the public domain. Yes that's right you can use this website for whatever you want you don't even need to credit me.</p>
+						  <p>Now using my website is strange but whatever I dont care use it if you want. Also take a look at my <a id="yellow" href="https://github.com/7Games">GitHub profile</a> it has some cool stuff on there I think... there will be more projects to come don';t worry once I get that small text-based game in a state I like I will make the repo public.</p>
+						  <p>I have also been thinking about BGTT:U. When I launch it I am going to Open Source it on my GitHub. However I am unsure of what Licence to give it. Right now I am thinking the <a href="https://mit-license.org/">MIT Licence</a>, the <a href="https://unlicense.org/">Unlicenece Licence</a>, or the <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">GPL 3.0 Licence</a>.</p><p>What do you think? No like literaly what do you think. Email me at <a id="yellow">benjamin@sevengames.xyz</a>. And why yes I did change my email how could you tell. Also yes I do want you to read over Licences.</p>
+			]]></description>
+		</item>
 	</channel>
 </rss>

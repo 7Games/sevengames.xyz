@@ -18,7 +18,7 @@
 
 
 		<link rel="stylesheet" type="text/css" href="../../main.css" />
-		<title>7Games: 06/06/22 - UK Time;</title>
+		<title>7Games: 04/07/22 - Epic Website Source;</title>
 	</head>
 	<body>
 		<div class="header">
@@ -35,15 +35,15 @@
 			<div class="container">
 				<div class="content">
 					<div id="mainBlog">
-						<h2>06/06/22 - UK Time;</h2>
+						<h2>04/07/22 - Epic Website Source;</h2>
 						<br>
 						<div class="blogText">
-							<p>Ok, so right now, the UK is on BST (British Summer Time) which is 1 hour ahead of GMT (Greenwich Mean Time), and that itself is very strange because the country that has Greenwich is one hour ahead of it. But what annoys me about it is everything, today I saw an ad for Summer Game Fest and it has the time for the event in GMT which reminded me of the same event a year ago where there was another advertisement which showed the time in GMT but me being a dumbass I did not realize that the UK has changed to BST so then came the time of the event YouTube did its countdown thing then when it finished an image showing the information of the event was shown, for 15 minutes I was confused because the time the event started and the current time were the same... except where it said GMT next it, when I realized the UK was in BST I felt quite dumb, which I am. Also, BST ends at the end of October for some reason despite it not being summer at that time.</p>
-							<p>Another annoying thing is the RSS, whenever I need to add a new RSS item for the feed on this website I have to put the time in as GMT. Anyway, that's it, that's all I wanted to say about the UK time zone, I know why they change it to summertime but especially for the first couple of months it confuses me. Well, it just confuses me, don't know about anyone else.</p>
+						  <p>Hello once again. How are you? Ok that's nice I don't care... How am I? Well fantastic thank you! Ok in all seriousness I just finished my first year at College which is very nice... execpt the fact that I now have nothing to do... I mean I could wore more on BGTT:U however I don't want to work on the game all the time as it would become a chore.</p>
+						  <p></p>
 						</div>
 						<br><br><br><br>
 					</div>
-					<div id="leftAlign"><a href="./0407.html">< 04/07/22 - Epic Website Source;</a></div><div id="rightAlign"><a href="./0506.html">05/06/22 - The Onion Router; ></a></div>
+					<div id="leftAlign"><a>< This is the latest blog</a></div><div id="rightAlign"><a href="./0606.html">06/06/22 - UK Time; ></a></div>
 				</div>
 			</div>
 		</div>
