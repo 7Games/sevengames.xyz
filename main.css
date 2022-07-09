@@ -113,14 +113,7 @@ a {
 #main {
     float:left;
     width: 52%;
-    margin-left: 3em;
-    border-right: 5px solid #2c2b2d;
-}
-
-#blogPanel {
-    float:left;
-    width: 40%;
-    margin-left: 1em;
+    margin-left: 25%;
 }
 
 #gamePanel {
