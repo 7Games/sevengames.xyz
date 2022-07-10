@@ -91,6 +91,11 @@ a {
     font-family: Arial;
 }
 
+li {
+    width: 80%;
+    color: white;
+    font-family: Arial;
+}
 
 
 #lowBottom {
